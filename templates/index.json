@@ -94,12 +94,15 @@
           "shorts-on-7-oz",
           "cusomizable-tshirt",
           "mix-chips",
-          "new-plain-mandarin-shirt-5-copy"
+          "new-plain-mandarin-shirt-5-copy",
+          "black-plain-mandarin-shirt-copy",
+          "black-plain-mandarin-shirt-3",
+          "black-plain-mandarin-shirt-5"
         ],
         "collection": "latest",
         "limit": 8,
         "recommended_mode": true,
-        "recommended_mode_intent": "related",
+        "recommended_mode_intent": "complementary",
         "header_title": "Featured Products",
         "header_title_font_size": "h3",
         "header_description": "<p>Add on optional description for this section</p>",
