@@ -183,6 +183,7 @@
           "type": "collection",
           "settings": {
             "collection": "men",
+            "img": "shopify://shop_images/ezgif-7-c365d6649a.jpg",
             "title": ""
           }
         },
@@ -190,6 +191,7 @@
           "type": "collection",
           "settings": {
             "collection": "women",
+            "img": "shopify://shop_images/image00023_fe7e52a2-9b17-4438-9533-336bb98ff5f6.webp",
             "title": ""
           }
         },
@@ -197,7 +199,7 @@
           "type": "collection",
           "settings": {
             "collection": "children",
-            "img": "shopify://shop_images/p1800702.png",
+            "img": "shopify://shop_images/ezgif-7-714d6f1aff.jpg",
             "title": ""
           }
         },
@@ -205,6 +207,7 @@
           "type": "collection",
           "settings": {
             "collection": "babies",
+            "img": "shopify://shop_images/image00021.webp",
             "title": ""
           }
         },
@@ -212,6 +215,7 @@
           "type": "collection",
           "settings": {
             "collection": "latest",
+            "img": "shopify://shop_images/image00008_1.webp",
             "title": ""
           }
         },
@@ -219,6 +223,7 @@
           "type": "collection",
           "settings": {
             "collection": "sale",
+            "img": "shopify://shop_images/bluejeans-06.webp",
             "title": ""
           }
         }
