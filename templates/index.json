@@ -106,7 +106,7 @@
         "header_title": "Featured Products",
         "header_title_font_size": "h3",
         "header_description": "<p>Add on optional description for this section</p>",
-        "header_description_font_size": "fs-sm",
+        "header_description_font_size": "fs-lg",
         "slider_speed": 300,
         "slider_navigation": true,
         "slider_pagination": true,
