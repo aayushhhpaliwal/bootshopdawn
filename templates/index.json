@@ -681,13 +681,132 @@
     },
     "separator_pMbxtB": {
       "type": "separator",
-      "disabled": true,
       "settings": {
         "bg_color": "bg-secondary",
         "bg_opacity": 25,
         "height": 1,
         "container": "container",
         "container_max_width": "",
+        "pt": 0,
+        "pb": 0
+      }
+    },
+    "featured_collections_m4UNDc": {
+      "type": "featured-collections",
+      "settings": {
+        "bg_color": "bg-body",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-body",
+        "border_top_width": 0,
+        "border_bottom_width": 0,
+        "border_color": "border-body",
+        "border_opacity": 100,
+        "container_max_width": "",
+        "header_title": "Featured Collections",
+        "header_title_font_size": "h2",
+        "header_description": "<p>Add on optional description for this section</p>",
+        "header_description_font_size": "fs-md",
+        "slider_speed": 300,
+        "slider_navigation": true,
+        "slider_pagination": true,
+        "slider_pagination_type": "bullets",
+        "slider_scrollbar": true,
+        "slider_partial_slides_mobile": false,
+        "slider_autoplay": 0,
+        "collection_card_text_align": "text-center",
+        "collection_card_img_orientation": "ratio-4x3",
+        "collection_card_img_border": "img-thumbnail",
+        "collection_card_show_title": true,
+        "collection_card_title_font_size": "fs-lg",
+        "collection_card_title_position": "collection-card-title-bottom",
+        "collection_card_show_product_count": true,
+        "breakpoint_mobile": 1,
+        "breakpoint_tablet": 2,
+        "breakpoint_desktop": 4,
+        "pt": 10,
+        "pb": 10
+      }
+    },
+    "navbar_tP6wdj": {
+      "type": "navbar",
+      "settings": {
+        "bg_color": "bg-body",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-body",
+        "border_top_width": 0,
+        "border_bottom_width": 0,
+        "border_color": "border-body",
+        "border_opacity": 100,
+        "shadow": "shadow-sm"
+      }
+    },
+    "hero_carousel_r6YWBC": {
+      "type": "hero-carousel",
+      "blocks": {
+        "slide_Tzxt9e": {
+          "type": "slide",
+          "settings": {
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "overlay_blur": 0,
+            "subtitle": "Optional Subtitle",
+            "title": "Welcome to our store",
+            "description": "<p>An optional description for this slide</p>",
+            "btn_primary_text": "Primary button",
+            "btn_primary_url": "",
+            "btn_secondary_text": "Secondary button",
+            "btn_secondary_url": ""
+          }
+        },
+        "slide_9WxyLX": {
+          "type": "slide",
+          "settings": {
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "overlay_blur": 0,
+            "subtitle": "Optional Subtitle",
+            "title": "Welcome to our store",
+            "description": "<p>An optional description for this slide</p>",
+            "btn_primary_text": "Primary button",
+            "btn_primary_url": "",
+            "btn_secondary_text": "Secondary button",
+            "btn_secondary_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_Tzxt9e",
+        "slide_9WxyLX"
+      ],
+      "settings": {
+        "bg_color": "bg-body",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-white",
+        "border_top_width": 0,
+        "border_bottom_width": 0,
+        "border_color": "border-body",
+        "border_opacity": 100,
+        "carousel_controls": true,
+        "carousel_indicators": true,
+        "carousel_transition": "slide",
+        "carousel_transition_duration": 500,
+        "carousel_autoplay": 5,
+        "carousel_effect": "carousel-zoom-in",
+        "media_mobile_height": 400,
+        "media_desktop_height": 700,
+        "media_adapt": false,
+        "media_full": false,
+        "caption_max_width": "900",
+        "caption_position": "carousel-caption-center",
+        "subtitle_font_size": "fs-md",
+        "title_font_size": "h2",
+        "description_font_size": "fs-lg",
+        "btn_primary_color": "btn-primary",
+        "btn_secondary_color": "btn-secondary",
+        "btn_font_size": "fs-md",
         "pt": 0,
         "pb": 0
       }
@@ -706,6 +825,9 @@
     "faq_7TT7z4",
     "testimonials_eFtnyC",
     "blog_slider_UUweWT",
-    "separator_pMbxtB"
+    "separator_pMbxtB",
+    "featured_collections_m4UNDc",
+    "navbar_tP6wdj",
+    "hero_carousel_r6YWBC"
   ]
 }
